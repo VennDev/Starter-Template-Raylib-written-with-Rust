@@ -1,0 +1,7 @@
+C:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/debug/debug/build/raylib-sys-a5198f40a5a35ab4/out/lib/raylib.lib
+C:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/debug/debug/build/raylib-sys-a5198f40a5a35ab4/out/include/raylib.h
+C:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/debug/debug/build/raylib-sys-a5198f40a5a35ab4/out/include/rlgl.h
+C:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/debug/debug/build/raylib-sys-a5198f40a5a35ab4/out/include/raymath.h
+C:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/debug/debug/build/raylib-sys-a5198f40a5a35ab4/out/lib/pkgconfig/raylib.pc
+C:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/debug/debug/build/raylib-sys-a5198f40a5a35ab4/out/lib/cmake/raylib/raylib-config-version.cmake
+C:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/debug/debug/build/raylib-sys-a5198f40a5a35ab4/out/lib/cmake/raylib/raylib-config.cmake

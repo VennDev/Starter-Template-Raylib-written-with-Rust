@@ -1,0 +1,38 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckCCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Internal/CheckCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Internal/CheckFlagCommonConfig.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake
+C:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/debug/debug/build/raylib-sys-a5198f40a5a35ab4/out/build/CMakeFiles/3.30.3/CMakeCCompiler.cmake
+C:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/debug/debug/build/raylib-sys-a5198f40a5a35ab4/out/build/CMakeFiles/3.30.3/CMakeCXXCompiler.cmake
+C:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/debug/debug/build/raylib-sys-a5198f40a5a35ab4/out/build/CMakeFiles/3.30.3/CMakeRCCompiler.cmake
+C:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/debug/debug/build/raylib-sys-a5198f40a5a35ab4/out/build/CMakeFiles/3.30.3/CMakeSystem.cmake
+C:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/debug/debug/build/raylib-sys-a5198f40a5a35ab4/out/raylib/CMakeLists.txt
+C:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/debug/debug/build/raylib-sys-a5198f40a5a35ab4/out/raylib/CMakeOptions.txt
+C:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/debug/debug/build/raylib-sys-a5198f40a5a35ab4/out/raylib/cmake/AddIfFlagCompiles.cmake
+C:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/debug/debug/build/raylib-sys-a5198f40a5a35ab4/out/raylib/cmake/BuildOptions.cmake
+C:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/debug/debug/build/raylib-sys-a5198f40a5a35ab4/out/raylib/cmake/CompilerFlags.cmake
+C:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/debug/debug/build/raylib-sys-a5198f40a5a35ab4/out/raylib/cmake/EnumOption.cmake
+C:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/debug/debug/build/raylib-sys-a5198f40a5a35ab4/out/raylib/cmake/Uninstall.cmake

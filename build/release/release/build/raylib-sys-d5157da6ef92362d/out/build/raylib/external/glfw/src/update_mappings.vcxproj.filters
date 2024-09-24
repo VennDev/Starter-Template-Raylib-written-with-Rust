@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\VennDev\OneDrive\Desktop\Folders\Rust\starter-template-raylib\build\release\release\build\raylib-sys-d5157da6ef92362d\out\build\CMakeFiles\6822c887db8627161070c40529418f3c\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\VennDev\OneDrive\Desktop\Folders\Rust\starter-template-raylib\build\release\release\build\raylib-sys-d5157da6ef92362d\out\raylib\src\external\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\VennDev\OneDrive\Desktop\Folders\Rust\starter-template-raylib\build\release\release\build\raylib-sys-d5157da6ef92362d\out\raylib\src\external\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\VennDev\OneDrive\Desktop\Folders\Rust\starter-template-raylib\build\release\release\build\raylib-sys-d5157da6ef92362d\out\raylib\src\external\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\VennDev\OneDrive\Desktop\Folders\Rust\starter-template-raylib\build\release\release\build\raylib-sys-d5157da6ef92362d\out\build\raylib\external\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{08F1F0C8-28E4-3924-A8E0-5E4C86D1DC47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A6907EA0-9FC3-3101-B4A9-93E1D1A029F6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

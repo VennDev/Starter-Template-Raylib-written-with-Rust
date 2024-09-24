@@ -1,0 +1,9 @@
+C:\Users\VennDev\OneDrive\Desktop\Folders\Rust\starter-template-raylib\build/debug\debug\build\clang-sys-c7a7904271228eaa\build_script_build-c7a7904271228eaa.exe: C:\Users\VennDev\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clang-sys-1.8.1\build.rs C:\Users\VennDev\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clang-sys-1.8.1\build\macros.rs C:\Users\VennDev\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clang-sys-1.8.1\build\common.rs C:\Users\VennDev\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clang-sys-1.8.1\build\dynamic.rs C:\Users\VennDev\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clang-sys-1.8.1\build\static.rs
+
+C:\Users\VennDev\OneDrive\Desktop\Folders\Rust\starter-template-raylib\build/debug\debug\build\clang-sys-c7a7904271228eaa\build_script_build-c7a7904271228eaa.d: C:\Users\VennDev\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clang-sys-1.8.1\build.rs C:\Users\VennDev\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clang-sys-1.8.1\build\macros.rs C:\Users\VennDev\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clang-sys-1.8.1\build\common.rs C:\Users\VennDev\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clang-sys-1.8.1\build\dynamic.rs C:\Users\VennDev\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clang-sys-1.8.1\build\static.rs
+
+C:\Users\VennDev\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clang-sys-1.8.1\build.rs:
+C:\Users\VennDev\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clang-sys-1.8.1\build\macros.rs:
+C:\Users\VennDev\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clang-sys-1.8.1\build\common.rs:
+C:\Users\VennDev\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clang-sys-1.8.1\build\dynamic.rs:
+C:\Users\VennDev\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clang-sys-1.8.1\build\static.rs:

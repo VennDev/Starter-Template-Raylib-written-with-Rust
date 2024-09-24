@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\VennDev\OneDrive\Desktop\Folders\Rust\starter-template-raylib\build\release\release\build\raylib-sys-d5157da6ef92362d\out\build\CMakeFiles\6822c887db8627161070c40529418f3c\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{08F1F0C8-28E4-3924-A8E0-5E4C86D1DC47}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

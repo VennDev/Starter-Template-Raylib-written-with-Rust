@@ -1,0 +1,19 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.30/Modules/CPack.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CPackComponent.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.30/Templates/CPackConfig.cmake.in
+C:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/release/release/build/raylib-sys-d5157da6ef92362d/out/raylib/cmake/CompileDefinitions.cmake
+C:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/release/release/build/raylib-sys-d5157da6ef92362d/out/raylib/cmake/GlfwImport.cmake
+C:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/release/release/build/raylib-sys-d5157da6ef92362d/out/raylib/cmake/InstallConfigurations.cmake
+C:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/release/release/build/raylib-sys-d5157da6ef92362d/out/raylib/cmake/JoinPaths.cmake
+C:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/release/release/build/raylib-sys-d5157da6ef92362d/out/raylib/cmake/LibraryConfigurations.cmake
+C:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/release/release/build/raylib-sys-d5157da6ef92362d/out/raylib/cmake/LibraryPathToLinkerFlags.cmake
+C:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/release/release/build/raylib-sys-d5157da6ef92362d/out/raylib/cmake/PackConfigurations.cmake
+C:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/release/release/build/raylib-sys-d5157da6ef92362d/out/raylib/cmake/PopulateConfigVariablesLocally.cmake
+C:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/release/release/build/raylib-sys-d5157da6ef92362d/out/raylib/cmake/raylib-config-version.cmake
+C:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/release/release/build/raylib-sys-d5157da6ef92362d/out/raylib/raylib.pc.in
+C:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/release/release/build/raylib-sys-d5157da6ef92362d/out/raylib/src/CMakeLists.txt

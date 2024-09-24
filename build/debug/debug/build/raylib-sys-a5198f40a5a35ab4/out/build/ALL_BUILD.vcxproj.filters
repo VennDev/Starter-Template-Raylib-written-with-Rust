@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\VennDev\OneDrive\Desktop\Folders\Rust\starter-template-raylib\build\debug\debug\build\raylib-sys-a5198f40a5a35ab4\out\raylib\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

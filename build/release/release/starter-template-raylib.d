@@ -1,0 +1,1 @@
+C:\Users\VennDev\OneDrive\Desktop\Folders\Rust\starter-template-raylib\build/release\release\starter-template-raylib.exe: C:\Users\VennDev\OneDrive\Desktop\Folders\Rust\starter-template-raylib\src\main.rs

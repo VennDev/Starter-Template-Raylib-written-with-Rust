@@ -1,0 +1,10 @@
+^C:\USERS\VENNDEV\ONEDRIVE\DESKTOP\FOLDERS\RUST\STARTER-TEMPLATE-RAYLIB\BUILD\DEBUG\DEBUG\BUILD\RAYLIB-SYS-A5198F40A5A35AB4\OUT\BUILD\CMAKEFILES\AE8A00DC1D6F55FD11F5C67B0B58CDFF\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/debug/debug/build/raylib-sys-a5198f40a5a35ab4/out/raylib -BC:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/debug/debug/build/raylib-sys-a5198f40a5a35ab4/out/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/VennDev/OneDrive/Desktop/Folders/Rust/starter-template-raylib/build/debug/debug/build/raylib-sys-a5198f40a5a35ab4/out/build/raylib.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

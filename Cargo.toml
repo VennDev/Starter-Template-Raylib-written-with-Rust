@@ -1,0 +1,15 @@
+cargo-features = ["profile-rustflags"]
+
+[package]
+name = "starter-template-raylib"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+raylib = "5.0.2"
+
+[unstable]
+profile-rustflags = true
+
+[profile.release]
+rustflags = ["-C", "link-arg=-mwindows"]
